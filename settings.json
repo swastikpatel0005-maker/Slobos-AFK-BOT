@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Play Safe",
+        "Respect other Players",
+        "Never Use Cheats"
       ]
     },
     "chat-log": true,
